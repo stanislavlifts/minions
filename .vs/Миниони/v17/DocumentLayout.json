@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{DED15BF3-C812-462C-AA05-C16AC5F8D2EB}|\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438.csproj|solutionrelative:\u043C\u0438\u043D\u0438\u043E\u043D\u0438\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DED15BF3-C812-462C-AA05-C16AC5F8D2EB}|\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438.csproj|c:\\stanislav 11d\\\u043C\u0438\u043D\u0438\u043E\u043D\u0438\\\u043C\u0438\u043D\u0438\u043E\u043D\u0438\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DED15BF3-C812-462C-AA05-C16AC5F8D2EB}|\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438.csproj|C:\\stanislav 11d\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u043C\u0438\u043D\u0438\u043E\u043D\u0438\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DED15BF3-C812-462C-AA05-C16AC5F8D2EB}|\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438.csproj|solutionrelative:\u043C\u0438\u043D\u0438\u043E\u043D\u0438\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DED15BF3-C812-462C-AA05-C16AC5F8D2EB}|\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438.csproj|c:\\stanislav 11d\\\u043C\u0438\u043D\u0438\u043E\u043D\u0438\\\u043C\u0438\u043D\u0438\u043E\u043D\u0438\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DED15BF3-C812-462C-AA05-C16AC5F8D2EB}|\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438.csproj|C:\\stanislav 11d\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u043C\u0438\u043D\u0438\u043E\u043D\u0438\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DED15BF3-C812-462C-AA05-C16AC5F8D2EB}|\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438.csproj|solutionrelative:\u043C\u0438\u043D\u0438\u043E\u043D\u0438\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -25,6 +25,10 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ComboItem.cs",
@@ -34,12 +38,7 @@
               "RelativeToolTip": "\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\ComboItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T07:28:37.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2024-03-28T07:28:37.306Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\Form1.cs",
               "ToolTip": "C:\\stanislav 11d\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\Form1.cs",
               "RelativeToolTip": "\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\Form1.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAAD4AAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T07:03:03.026Z",
               "EditorCaption": ""
@@ -63,8 +62,7 @@
               "ToolTip": "C:\\stanislav 11d\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\Form1.cs [Design]",
               "RelativeToolTip": "\u041C\u0438\u043D\u0438\u043E\u043D\u0438\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T06:31:49.969Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-28T06:31:49.969Z"
             }
           ]
         },

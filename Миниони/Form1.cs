@@ -13,6 +13,7 @@ namespace Миниони
 {
     public partial class Form1 : Form
     {
+        //neshto
         string connectionString = "server=10.42.42.64;port=3306;user=PC1;password=1111;database=minions";
         public Form1()
         {
